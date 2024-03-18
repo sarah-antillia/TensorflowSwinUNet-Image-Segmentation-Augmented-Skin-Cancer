@@ -99,7 +99,7 @@ As shown above, the number of images of train and valid dataset is not necessari
 </h3>
 This <a href="./src/TensorflowSwinUNet.py">TensorflowSwinUNet</a> model is slightly flexibly customizable by a configuration file.<br>
 For example, <b>TensorflowSwinUNet/Skin-Cancer</b> model can be customizable
-by using <a href="./projects/TensorflowSwinUNet/Skin-Cancer/train_eval_infer_augmentor.config">train_eval_infer_augmentor.config</a>
+by using <a href="./projects/TensorflowSwinUNet/Skin-Cancer/train_eval_infer.config">train_eval_infer_augmentor.config</a>
 <pre>
 ; train_eval_infer.config
 ; 2024/03/18 (C) antillia.com
