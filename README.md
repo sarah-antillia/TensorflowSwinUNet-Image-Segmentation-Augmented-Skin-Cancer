@@ -282,12 +282,10 @@ Evaluation console output:<br>
 <pre>
 Test loss    :0.2543
 Test accuracy:0.9333000183105469
-(py310-efficientdet) PS E:\unet-master\TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer\projects\TensorflowSwinUNet\Skin-Cancer>
-
 </pre>
-<a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Skin-Cancer">Tensorflow-Image-Segmentation-Skin-Cancer</a>
-<br>
-<img src="https://github.com/atlan-antillia/Image-Segmentation-Gastrointestinal-Polyp/blob/main/asset/evaluate_console_at_epoch_50_0623.png"><br> 
+As shown above, the loss is not so low, and the accuracy not so high.
+Please see also our first experiment <a href="https://github.com/sarah-antillia/Image-Segmentation-Skin-Lesion">Image-Segmentation-Skin-Lesion</a>
+ based on a Pre-Augmented-ImageMask-Dataset of 256x256 pixel size.
 
 <br>
 <h2>
